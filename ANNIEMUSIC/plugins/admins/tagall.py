@@ -48,98 +48,132 @@ EMOJI = [ "🦋🦋🦋🦋🦋",
           " 🥬🍉🧁🧇",
         ]
 
-TAGMES = [ " 𝐎𝐲𝐲 𝐭𝐞𝐫𝐞 𝐛𝐚𝐥𝐞 𝐤𝐨 𝐣𝐚𝐤𝐚𝐫 𝐛𝐚𝐭𝐚𝐭𝐚 𝐡𝐮 𝐭𝐮 𝐲𝐡𝐚 𝐬𝐞𝐭𝐭𝐢𝐧𝐠 𝐤𝐚𝐫 𝐫𝐡𝐢 𝐡𝐚𝐢🥱 ",
-           " 𝐀𝐩𝐤𝐢 𝐞𝐤 𝐩𝐢𝐜 𝐦𝐢𝐥𝐞𝐠𝐢 𝐤𝐲𝐚 𝐢𝐦𝐚𝐠𝐢𝐧𝐞 𝐤𝐚𝐫 𝐤𝐞 𝐦*𝐭𝐡 𝐤𝐚𝐫𝐧𝐚 𝐡𝐢 ",
-           " 𝐕𝐜 𝐂𝐡𝐚𝐥𝐨 𝐑𝐨𝐦𝐚𝐧𝐭𝐢𝐜 𝐁𝐚𝐭𝐞𝐧 𝐊𝐚𝐫𝐭𝐞 𝐇𝐚𝐢𝐧 𝐊𝐮𝐜𝐡 𝐊𝐮𝐜𝐡😃 ",
-           " 𝐓𝐡𝐚𝐧𝐝𝐢 𝐦𝐞 𝐭𝐮𝐦𝐡𝐚𝐫𝐚 𝐤𝐡𝐚𝐝𝐚 𝐡𝐨𝐭𝐚 𝐡𝐚𝐢 𝐤𝐲𝐚 😁🥲 ",
-           " 𝐔𝐟𝐟 𝐊𝐲𝐚 𝐦𝐚𝐚𝐥 𝐡𝐚𝐢 𝐲𝐚𝐚𝐫 😁😂🥺 ",
-           " 𝐏𝐭𝐚 𝐇𝐚𝐢 𝐁𝐨𝐡𝐨𝐭 𝐌𝐢𝐬𝐬 𝐊𝐚𝐫 𝐑𝐡a 𝐓𝐡a 𝐀𝐚𝐩𝐤𝐨 𝐛𝐚𝐭𝐡𝐫𝐨𝐨𝐦 𝐦𝐞 🤭 ",
-           " 𝐎𝐲𝐞 𝐃𝐌 𝐊𝐚𝐫𝐨 𝐀𝐩𝐤𝐚 𝐦𝐨𝐨𝐝 𝐛𝐧𝐚 𝐝𝐞𝐭𝐢 𝐡𝐮 😅😅 ",
-           " 𝐌𝐞𝐫𝐢 𝐁𝐡𝐢 𝐒𝐞𝐭𝐭𝐢𝐧𝐠 𝐊𝐚𝐫𝐛𝐚 𝐃𝐨𝐠𝐞.𝐇𝐢𝐥𝐥𝐚 𝐇𝐢𝐥𝐥𝐚 𝐤𝐞 𝐭𝐡𝐚𝐤 𝐠𝐲𝐚 𝐡𝐮 ??🙂 ",
-           " 𝐎𝐲𝐲 𝐭𝐞𝐫𝐞 𝐛𝐚𝐥𝐞 𝐤𝐨 𝐣𝐚𝐤𝐚𝐫 𝐛𝐚𝐭𝐚𝐭𝐚 𝐡𝐮 𝐭𝐮 𝐲𝐡𝐚 𝐬𝐞𝐭𝐭𝐢𝐧𝐠 𝐤𝐚𝐫 𝐫𝐡𝐢 𝐡𝐚𝐢🥲 ",
-           " 𝐤𝐚 𝐡𝐨 𝐤𝐚𝐫𝐞𝐣𝐚 1 𝐜𝐡𝐮𝐦𝐦𝐚 𝐧𝐚 𝐝𝐞𝐛𝐮 😅😋 ",
-           " 𝐎𝐲𝐲 𝐌𝐞𝐫𝐞 𝐊𝐨 𝐀𝐩𝐧𝐞 𝐛𝐞𝐝𝐫𝐨𝐨𝐦 𝐦𝐞 𝐤𝐢𝐝𝐧𝐞𝐩 𝐤𝐚𝐫 𝐥o😅😅  ",
-           " 𝐀𝐚𝐩𝐤𝐢 𝐏𝐚𝐫𝐭𝐧𝐞𝐫 𝐀𝐚𝐩𝐤𝐨 𝐃𝐡𝐮𝐧𝐝 𝐑𝐡𝐞 𝐇𝐚𝐢𝐧 𝐉𝐥𝐝𝐢 𝐎𝐧𝐥𝐢𝐧𝐞 𝐀𝐲𝐢𝐚𝐞😅😅 ",
-           " 𝐇𝐚𝐦 𝐃𝐨𝐬𝐭 𝐁𝐚𝐧 𝐒𝐚𝐤𝐭𝐞 𝐇𝐚𝐢...?🥰 𝐌𝐚𝐬𝐭𝐞𝐫𝐛𝐚𝐭𝐢𝐧𝐠 𝐤𝐚𝐫𝐧𝐞 𝐦𝐞 𝐡𝐞𝐥𝐩 𝐡𝐨 𝐣𝐚𝐲𝐞𝐠𝐢 𝐦𝐞𝐫𝐢 😁🤔 ",
-           " 𝐒𝐨𝐧𝐞 𝐂𝐡𝐚𝐥 𝐆𝐲𝐞 𝐊𝐲𝐚 𝐉𝐀𝐍𝐄𝐌𝐀𝐍 🙄🙄 ",
-           " 𝐇𝐚𝐦 𝐃𝐨𝐬𝐭 𝐁𝐚𝐧 𝐒𝐚𝐤𝐭𝐞 𝐇𝐚𝐢...?🥰 𝐌𝐚𝐬𝐭𝐞𝐫𝐛𝐚𝐭𝐢𝐧𝐠 𝐤𝐚𝐫𝐧𝐞 𝐦𝐞 𝐡𝐞𝐥𝐩 𝐡𝐨 𝐣𝐚𝐲𝐞𝐠𝐢 𝐦𝐞𝐫𝐢 😁 😁😕 ",
-           " 𝐲𝐨𝐮𝐫 𝐟𝐚𝐯𝐨𝐮𝐫𝐢𝐭𝐞 𝐚𝐜𝐭𝐫𝐞𝐬𝐬 (𝐒𝐔𝐍𝐍𝐘 𝐋𝐄𝐎𝐍𝐄, 𝐨𝐫 𝐌𝐈𝐘𝐀 𝐊𝐇𝐀𝐋𝐈𝐅𝐀)🙃 ",
-           " 𝐎𝐲𝐲 𝐏𝐫𝐢𝐲𝐚 𝐁𝐡𝐚𝐛𝐡𝐢 𝐤𝐚 𝐤𝐲𝐚 𝐡𝐚𝐢 😁😁😛 ",
-           " 𝐇𝐞𝐥𝐥𝐨 𝐁𝐚𝐛𝐲 𝐊𝐤𝐫𝐡..?🤔 ",
-           " 𝐎𝐲𝐲 𝐬𝐮𝐧𝐨 𝐀𝐩 𝐑𝐨𝐣 𝐡𝐢𝐥𝐚𝐭𝐞 𝐡𝐨 𝐤𝐲𝐚 𝐩𝐚𝐭𝐥𝐞 𝐡𝐨 𝐠𝐲𝐞 𝐡𝐨 😅 ",
-           " 𝐂𝐡𝐥𝐨 𝐇𝐚𝐦 𝐝𝐨𝐧𝐨 𝐫𝐚𝐭 𝐛𝐚𝐥𝐚.𝐠𝐚𝐧𝐞 𝐤𝐡𝐚𝐭𝐞 𝐡𝐚𝐢 😁.🤗 ",
-           " 𝐂𝐡𝐚𝐥𝐨 𝐡𝐚𝐦 𝐝𝐨𝐧𝐨 𝐫𝐨𝐦𝐚𝐧𝐭𝐢𝐜 𝐛𝐚𝐭𝐞 𝐤𝐚𝐫𝐭𝐞 𝐡𝐚𝐢 😇 ",
-           " 𝐨𝐨𝐲 𝐦𝐞𝐫𝐢 𝐡𝐞𝐥𝐩 𝐤𝐚𝐫𝐨𝐠𝐞 𝐦𝐚𝐬𝐭𝐞𝐫𝐛𝐚𝐭𝐞 𝐤𝐚𝐫𝐧𝐞 𝐦𝐞 😁🤭 ",
-           " 𝐎𝐲𝐲 𝐭𝐮 𝐢𝐭𝐧𝐢 𝐡𝐨𝐭 𝐤𝐲𝐮 𝐡𝐚𝐢 𝐝𝐞𝐤𝐡𝐭𝐞 𝐡𝐢 𝐦𝐚𝐧 𝐤𝐚𝐫𝐭𝐚 𝐡𝐚𝐢 𝐡𝐢𝐥𝐚 𝐥𝐮 😁😀🥺🥺 ",
-           " 𝐎𝐲𝐞 𝐏𝐚𝐠𝐚𝐥 𝐚𝐩𝐤𝐢 𝐚𝐠𝐞 𝐤𝐲𝐚 𝐡𝐚𝐢 𝐡𝐨𝐭 𝐥𝐠𝐭𝐞 𝐡𝐨 𝐚𝐩😶 ",
-           " 𝐀𝐚𝐣 𝐇𝐨𝐥𝐢𝐝𝐚𝐲 𝐇𝐚𝐢 𝐊𝐲𝐚 𝐒𝐜𝐡𝐨𝐨𝐥 𝐌𝐞..??🤔 ",
-           " 𝐤𝐚 𝐡𝐨 𝐤𝐚𝐫𝐞𝐣𝐚 1 𝐜𝐡𝐮𝐦𝐦𝐚 𝐧𝐚 𝐝𝐞𝐛𝐮 😅😜 ",
-           " 𝐌𝐞𝐫𝐢 𝐁𝐡𝐢 𝐒𝐞𝐭𝐭𝐢𝐧𝐠 𝐊𝐚𝐫𝐛𝐚 𝐃𝐨𝐠𝐞.𝐇𝐢𝐥𝐥𝐚 𝐇𝐢𝐥𝐥𝐚 𝐤𝐞 𝐭𝐡𝐚𝐤 𝐠𝐲𝐚 𝐡𝐮 🙂🙂 ",
-           " 𝐚𝐩𝐤𝐢 𝐚𝐠𝐞 𝐤𝐲𝐚 𝐡𝐚𝐢 𝐡𝐨𝐭 𝐡𝐨 𝐚𝐩 𝐝𝐞𝐤𝐡𝐭𝐞 𝐡𝐢 𝐦𝐚𝐧 𝐤𝐚𝐫𝐭𝐚 𝐡𝐢𝐥𝐚𝐭𝐞 𝐫𝐡𝐮😁😪 ",
-           " 𝐍𝐢𝐜𝐞 𝐓𝐨 𝐌𝐞𝐞𝐭 𝐔𝐡 𝐉𝐀𝐍𝐄𝐌𝐀𝐍☺ ",
-           " 𝐇𝐞𝐥𝐥𝐨 𝐀𝐩𝐤𝐚 𝐛𝐫𝐞𝐚𝐤 𝐮𝐩 𝐤𝐚𝐫𝐛𝐚 𝐝𝐞𝐭𝐚 𝐡𝐮 𝐚𝐩 𝐦𝐞𝐫𝐞 𝐬𝐞 𝐬𝐞𝐭𝐭𝐢𝐧𝐠 𝐤𝐚𝐫𝐥𝐨 😀😁🙊 ",
-           " 𝐎𝐲𝐲 𝐭𝐞𝐫𝐞 𝐛𝐚𝐥𝐞 𝐤𝐨 𝐣𝐚𝐤𝐚𝐫 𝐛𝐚𝐭𝐚𝐭𝐚 𝐡𝐮 𝐭𝐮 𝐲𝐡𝐚 𝐬𝐞𝐭𝐭𝐢𝐧𝐠 𝐤𝐚𝐫 𝐫𝐡𝐢 𝐡𝐚𝐢😺 ",
-           " 𝐎𝐲𝐲 𝐬𝐮𝐧𝐨 𝐀𝐩 𝐑𝐨𝐣 𝐡𝐢𝐥𝐚𝐭𝐞 𝐡𝐨 𝐤𝐲𝐚 𝐩𝐚𝐭𝐥𝐞 𝐡𝐨 𝐠𝐲𝐞 𝐡𝐨🥲 ",
-           " 𝐎𝐲𝐲 𝐭𝐞𝐫𝐞 𝐛𝐚𝐥𝐞 𝐤𝐨 𝐣𝐚𝐤𝐚𝐫 𝐛𝐚𝐭𝐚𝐭𝐚 𝐡𝐮 𝐭𝐮 𝐲𝐡𝐚 𝐬𝐞𝐭𝐭𝐢𝐧𝐠 𝐤𝐚𝐫 𝐫𝐡𝐢 𝐡𝐚𝐢😅 ",
-           " 𝐀𝐩𝐤𝐢 𝐞𝐤 𝐩𝐢𝐜 𝐦𝐢𝐥𝐞𝐠𝐢 𝐤𝐲𝐚 𝐢𝐦𝐚𝐠𝐢𝐧𝐞 𝐤𝐚𝐫 𝐤𝐞 𝐦*𝐭𝐡 𝐤𝐚𝐫𝐧𝐚 𝐡𝐢😅 ",
-           " 𝐓𝐡𝐚𝐧𝐝𝐢 𝐦𝐞 𝐭𝐮𝐦𝐡𝐚𝐫𝐚 𝐤𝐡𝐚𝐝𝐚 𝐡𝐨𝐭𝐚 𝐡𝐚𝐢 𝐤𝐲𝐚 😁😆😆😆 ",
-           " 𝐎𝐫 𝐁𝐚𝐭𝐚𝐨 𝐁𝐡𝐚𝐛𝐡𝐢 𝐊𝐚𝐢𝐬𝐢 𝐇𝐚𝐢😉 ",
-           " 𝐀𝐚𝐣 𝐓𝐮𝐦 𝐟𝐢𝐧𝐠𝐞𝐫 𝐬𝐞 𝐡𝐢 𝐤𝐚𝐚𝐦 𝐜𝐡𝐚𝐥𝐚𝐨. 𝐆𝐡𝐚𝐫 𝐦𝐞 𝐛𝐚𝐢𝐠𝐚𝐧 𝐨𝐫 𝐦𝐮𝐤𝐢 𝐤𝐡𝐚𝐭𝐚𝐦 𝐡𝐨 𝐠𝐲𝐞 𝐡𝐚𝐢 🙈🙈🙈 ",
-           " 𝐎𝐲𝐲 𝐏𝐫𝐢𝐲𝐚 𝐁𝐡𝐚𝐛𝐡𝐢 𝐤𝐚 𝐤𝐲𝐚 𝐡𝐚𝐢 𝐡𝐚𝐢 😁😁👀 ",
-           " 𝐲𝐨𝐮𝐫 𝐟𝐚𝐯𝐨𝐮𝐫𝐢𝐭𝐞 𝐚𝐜𝐭𝐫𝐞𝐬𝐬 (𝐒𝐔𝐍𝐍𝐘 𝐋𝐄𝐎𝐍𝐄, 𝐨𝐫 𝐌𝐈𝐘𝐀 𝐊𝐇𝐀𝐋𝐈𝐅𝐀)😹 ",
-           " 𝐨 𝐡𝐞𝐥𝐥𝐨 𝐚𝐩𝐤𝐢 𝐚𝐠𝐞 𝐤𝐲𝐚 𝐡𝐚𝐢 𝐡𝐨𝐭 𝐥𝐠𝐭𝐞 𝐡𝐨 𝐚𝐩😻 ",
-           " 𝐓𝐮𝐦 𝐫𝐨𝐣 𝐡𝐢𝐥𝐚𝐭𝐞 𝐡𝐨 𝐤𝐲𝐚 , 𝐁𝐡𝐮𝐭 𝐩𝐚𝐭𝐤𝐞 𝐡𝐢 𝐠𝐲𝐞 𝐡𝐨 💕😴🙃 ",
-           " 𝐌𝐞𝐫𝐢 𝐁𝐡𝐢 𝐒𝐞𝐭𝐭𝐢𝐧𝐠 𝐊𝐚𝐫𝐛𝐚 𝐃𝐨𝐠𝐞.𝐇𝐢𝐥𝐥𝐚 𝐇𝐢𝐥𝐥𝐚 𝐤𝐞 𝐭𝐡𝐚𝐤 𝐠𝐲𝐚 𝐡𝐮 .??😕 ",
-           " 𝐲𝐨𝐮𝐫 𝐟𝐚𝐯𝐨𝐮𝐫𝐢𝐭𝐞 𝐚𝐜𝐭𝐫𝐞𝐬𝐬 (𝐒𝐔𝐍𝐍𝐘 𝐋𝐄𝐎𝐍𝐄, 𝐨𝐫 𝐌𝐈𝐘𝐀 𝐊𝐇𝐀𝐋𝐈𝐅𝐀)🙃 ",
-           " 𝐁𝐡𝐚𝐛𝐡𝐢 𝐣𝐢 𝐤𝐨 𝐤𝐡𝐮𝐬𝐡 𝐫𝐤𝐡𝐚 𝐤𝐚𝐫𝐨 𝐭𝐡𝐚𝐧𝐝𝐢 𝐦𝐞 𝐰𝐚𝐫𝐧𝐚 𝐤𝐢𝐬𝐢 𝐨𝐫 𝐤𝐞 𝐬𝐚𝐭𝐡 𝐛𝐡𝐚𝐠 𝐣𝐚𝐲𝐞𝐠𝐢 😅😀😀?🙃 ",
-           " 𝐉𝐡𝐚𝐭𝐞 𝐧𝐚 𝐜𝐡*𝐜*𝐈 𝐨𝐫 𝐛𝐚𝐭𝐞 𝐮𝐜𝐡𝐢 𝐮𝐜𝐡𝐢 😴😴😅 ",
-           " 𝐌𝐞𝐫𝐢 𝐁𝐡𝐢 𝐒𝐞𝐭𝐭𝐢𝐧𝐠 𝐊𝐚𝐫𝐛𝐚 𝐃𝐨𝐠𝐞.𝐇𝐢𝐥𝐥𝐚 𝐇𝐢𝐥𝐥𝐚 𝐤𝐞 𝐭𝐡𝐚𝐤 𝐠𝐲𝐚 𝐡𝐮 .??🙂🧐 ",
-           " 𝐌𝐞𝐫𝐚 𝐄𝐤 𝐊𝐚𝐚𝐦 𝐊𝐚𝐫 𝐃𝐨𝐠𝐞.𝐏𝐥𝐳 𝐦𝐮𝐭𝐡 𝐦𝐚𝐫 𝐝𝐨😁😁.? ",
-           " 𝐁𝐡𝐚𝐛𝐡𝐢 𝐣𝐢 𝐤𝐨 𝐤𝐡𝐮𝐬𝐡 𝐫𝐤𝐡𝐚 𝐤𝐚𝐫𝐨 𝐭𝐡𝐚𝐧𝐝𝐢 𝐦𝐞 𝐰𝐚𝐫𝐧𝐚 𝐤𝐢𝐬𝐢 𝐨𝐫 𝐤𝐞 𝐬𝐚𝐭𝐡 𝐛𝐡𝐚𝐠 𝐣𝐚𝐲𝐞𝐠𝐢 😅😀😀😠 ",
-           " 𝐚𝐩𝐤𝐢 𝐚𝐠𝐞 𝐤𝐲𝐚 𝐡𝐚𝐢 𝐡𝐨𝐭 𝐡𝐨 𝐚𝐩 𝐝𝐞𝐤𝐡𝐭𝐞 𝐡𝐢 𝐦𝐚𝐧 𝐤𝐚𝐫𝐭𝐚 𝐡𝐢𝐥𝐚𝐭𝐞 𝐫𝐡𝐮😁❤ ",
-           " 𝐎𝐲𝐲 𝐬𝐮𝐧𝐨 𝐀𝐩 𝐑𝐨𝐣 𝐡𝐢𝐥𝐚𝐭𝐞 𝐡𝐨 𝐤𝐲𝐚 𝐩𝐚𝐭𝐥𝐞 𝐡𝐨 𝐠𝐲𝐞 𝐡𝐨👱 ",
-           " 𝐁𝐨𝐡𝐨𝐭 𝐘𝐚𝐚𝐝 𝐀𝐚 𝐑𝐡𝐢 𝐇𝐚𝐢 𝐁𝐡𝐚𝐛𝐡𝐢 𝐣𝐢 𝐤𝐚𝐢𝐬𝐢 𝐡𝐚𝐢🤧❣️ ",
-           " 𝐎𝐲𝐲 𝐬𝐮𝐧𝐨 𝐀𝐩 𝐑𝐨𝐣 𝐡𝐢𝐥𝐚𝐭𝐞 𝐡𝐨 𝐤𝐲𝐚 𝐩𝐚𝐭𝐥𝐞 𝐡𝐨 𝐠𝐲𝐞 𝐡𝐨😏😏 ",
-           " 𝐀𝐩𝐤𝐢 𝐞𝐤 𝐩𝐢𝐜 𝐦𝐢𝐥𝐞𝐠𝐢 𝐤𝐲𝐚 𝐢𝐦𝐚𝐠𝐢𝐧𝐞 𝐤𝐚𝐫 𝐤𝐞 𝐦*𝐭𝐡 𝐤𝐚𝐫𝐧𝐚 𝐡𝐢🤐 ",
-           " 𝐁𝐡𝐚𝐛𝐡𝐢 𝐣𝐢 𝐤𝐨 𝐤𝐡𝐮𝐬𝐡 𝐫𝐤𝐡𝐚 𝐤𝐚𝐫𝐨 𝐭𝐡𝐚𝐧𝐝𝐢 𝐦𝐞 𝐰𝐚𝐫𝐧𝐚 𝐤𝐢𝐬𝐢 𝐨𝐫 𝐤𝐞 𝐬𝐚𝐭𝐡 𝐛𝐡𝐚𝐠 𝐣𝐚𝐲𝐞𝐠𝐢 😅😀😀😒 ",
-           " 𝐁𝐡𝐚𝐛𝐡𝐢 𝐣𝐢 𝐤𝐨 𝐤𝐡𝐮𝐬𝐡 𝐫𝐤𝐡𝐚 𝐤𝐚𝐫𝐨 𝐭𝐡𝐚𝐧𝐝𝐢 𝐦𝐞 𝐰𝐚𝐫𝐧𝐚 𝐤𝐢𝐬𝐢 𝐨𝐫 𝐤𝐞 𝐬𝐚𝐭𝐡 𝐛𝐡𝐚𝐠 𝐣𝐚𝐲𝐞𝐠𝐢 😅😮😮 "
-           " 𝐉𝐡𝐚𝐭𝐞 𝐧𝐚 𝐜𝐡*𝐜*𝐈 𝐨𝐫 𝐛𝐚𝐭𝐞 𝐮𝐜𝐡𝐢 𝐮𝐜𝐡𝐢 😴😴😅👀 ", 
-           " 𝐀𝐩𝐤𝐢 𝐞𝐤 𝐩𝐢𝐜 𝐦𝐢𝐥𝐞𝐠𝐢 𝐤𝐲𝐚 𝐢𝐦𝐚𝐠𝐢𝐧𝐞 𝐤𝐚𝐫 𝐤𝐞 𝐦*𝐭𝐡 M𝐚𝐫𝐧𝐚 𝐡ai 😅😅 ",
-           " 𝐁𝐡𝐚𝐛𝐡𝐢 𝐣𝐢 𝐤𝐨 𝐤𝐡𝐮𝐬𝐡 𝐫𝐤𝐡𝐚 𝐤𝐚𝐫𝐨 𝐭𝐡𝐚𝐧𝐝𝐢 𝐦𝐞 𝐰𝐚𝐫𝐧𝐚 𝐤𝐢𝐬𝐢 𝐨𝐫 𝐤𝐞 𝐬𝐚𝐭𝐡 𝐛𝐡𝐚𝐠 𝐣𝐚𝐲𝐞𝐠𝐢 😅🥺🥺 ",
-           " 𝐎𝐲𝐲 𝐬𝐮𝐧𝐨 𝐀𝐩 𝐑𝐨𝐣 𝐡𝐢𝐥𝐚𝐭𝐞 𝐡𝐨 𝐤𝐲𝐚 𝐩𝐚𝐭𝐥𝐞 𝐡𝐨 𝐠𝐲𝐞 𝐡𝐨👀 ",
-           " 𝐁𝐡𝐚𝐛𝐡𝐢 𝐣𝐢 𝐤𝐨 𝐤𝐡𝐮𝐬𝐡 𝐫𝐤𝐡𝐚 𝐤𝐚𝐫𝐨 𝐭𝐡𝐚𝐧𝐝𝐢 𝐦𝐞 𝐰𝐚𝐫𝐧𝐚 𝐤𝐢𝐬𝐢 𝐨𝐫 𝐤𝐞 𝐬𝐚𝐭𝐡 𝐛𝐡𝐚𝐠 𝐣𝐚𝐲𝐞𝐠𝐢 😅😀😀🙂 ",
-           " 𝐍𝐚 𝐉𝐚𝐦𝐢𝐧 𝐏𝐞 𝐍𝐚 𝐀𝐬𝐡𝐦𝐚𝐧 𝐩𝐞 𝐓𝐞𝐫𝐢 𝐆𝐝 𝐦𝐚𝐫𝐮𝐧𝐠𝐚 𝐚𝐩𝐧𝐞 𝐁𝐡𝐚𝐢 𝐤𝐞 𝐦𝐚𝐤𝐚𝐧 𝐩𝐞?🤔** ",
-           " 𝐤𝐚 𝐡𝐨 𝐤𝐚𝐫𝐞𝐣𝐚 1 𝐜𝐡𝐮𝐦𝐦𝐚 𝐧𝐚 𝐝𝐞𝐛𝐮 😅..🥺 ",
-           " 𝐓𝐮𝐦 𝐫𝐨𝐣 𝐡𝐢𝐥𝐚𝐭𝐞 𝐡𝐨 𝐤𝐲𝐚 , 𝐁𝐡𝐮𝐭 𝐩𝐚𝐭𝐤𝐞 𝐡𝐢 𝐠𝐲𝐞 𝐡𝐨 💕😴🥺🥺 ",
-           " 𝐊𝐚𝐥 𝐌𝐚𝐣𝐚 𝐀𝐲𝐚 𝐓𝐡𝐚 𝐍𝐚 Bathroom me 🤭😅 ",
-           " 𝐍𝐚 𝐉𝐚𝐦𝐢𝐧 𝐏𝐞 𝐍𝐚 𝐀𝐬𝐡𝐦𝐚𝐧 𝐩𝐞 𝐓𝐞𝐫𝐢 𝐆𝐝 𝐦𝐚𝐫𝐮𝐧𝐠𝐚 𝐚𝐩𝐧𝐞 𝐁𝐡𝐚𝐢 𝐤𝐞 𝐦𝐚𝐤𝐚𝐧 𝐩𝐞😁😁**",
-           " 𝐎𝐲𝐲 𝐭𝐞𝐫𝐞 𝐛𝐚𝐥𝐞 𝐤𝐨 𝐣𝐚𝐤𝐚𝐫 𝐛𝐚𝐭𝐚𝐭𝐚 𝐡𝐮 𝐭𝐮 𝐲𝐡𝐚 𝐬𝐞𝐭𝐭𝐢𝐧𝐠 𝐤𝐚𝐫 𝐫𝐡𝐢 𝐡𝐚𝐢👀 ",
-           " 𝐌𝐞𝐫𝐢 𝐁𝐡𝐢 𝐒𝐞𝐭𝐭𝐢𝐧𝐠 𝐊𝐚𝐫𝐛𝐚 𝐃𝐨𝐠𝐞.𝐇𝐢𝐥𝐥𝐚 𝐇𝐢𝐥𝐥𝐚 𝐤𝐞 𝐭𝐡𝐚𝐤 𝐠𝐲𝐚 𝐡𝐮😼 ",
-           " 𝐎𝐲𝐲 𝐭𝐞𝐫𝐞 𝐛𝐚𝐥𝐞 𝐤𝐨 𝐣𝐚𝐤𝐚𝐫 𝐛𝐚𝐭𝐚𝐭𝐚 𝐡𝐮 𝐭𝐮 𝐲𝐡𝐚 𝐬𝐞𝐭𝐭𝐢𝐧𝐠 𝐤𝐚𝐫 𝐫𝐡𝐢 𝐡𝐚𝐢😸 ",
-           " 𝐓𝐡𝐚𝐧𝐝𝐢 𝐦𝐞 𝐭𝐮𝐦𝐡𝐚𝐫𝐚 𝐤𝐡𝐚𝐝𝐚 𝐡𝐨𝐭𝐚 𝐡𝐚𝐢 𝐤𝐲𝐚 😁🙈 ",
-           " 𝐀𝐚𝐩𝐤𝐢 𝐏𝐚𝐫𝐭𝐧𝐞𝐫 𝐀𝐚𝐩𝐤𝐨 𝐃𝐡𝐮𝐧𝐝 𝐑𝐡𝐞 𝐇𝐚𝐢𝐧 𝐉𝐥𝐝𝐢 𝐎𝐧𝐥𝐢𝐧𝐞 𝐀𝐲𝐢𝐚𝐞😅😅✌️🤞 ",
-           " 𝐲𝐨𝐮𝐫 𝐟𝐚𝐯𝐨𝐮𝐫𝐢𝐭𝐞 𝐚𝐜𝐭𝐫𝐞𝐬𝐬 (𝐒𝐔𝐍𝐍𝐘 𝐋𝐄𝐎𝐍𝐄, 𝐨𝐫 𝐌𝐈𝐘𝐀 𝐊𝐇𝐀𝐋𝐈𝐅𝐀) 🥰 ",
-           " 𝐇𝐚𝐦 𝐃𝐨𝐬𝐭 𝐁𝐚𝐧 𝐒𝐚𝐤𝐭𝐞 𝐇𝐚𝐢...?🥰 𝐌𝐚𝐬𝐭𝐞𝐫𝐛𝐚𝐭𝐢𝐧𝐠 𝐤𝐚𝐫𝐧𝐞 𝐦𝐞 𝐡𝐞𝐥𝐩 𝐡𝐨 𝐣𝐚𝐲𝐞𝐠𝐢 𝐦𝐞𝐫𝐢 😁 😁.🥺🥺 ",
-           " 𝐁𝐡𝐚𝐛𝐡𝐢 𝐣𝐢 𝐤𝐨 𝐤𝐡𝐮𝐬𝐡 𝐫𝐤𝐡𝐚 𝐤𝐚𝐫𝐨 𝐭𝐡𝐚𝐧𝐝𝐢 𝐦𝐞 𝐰𝐚𝐫𝐧𝐚 𝐤𝐢𝐬𝐢 𝐨𝐫 𝐤𝐞 𝐬𝐚𝐭𝐡 𝐛𝐡𝐚𝐠 𝐣𝐚𝐲𝐞𝐠𝐢 😅😀😀🥲 ",
-           " 𝐒𝐢𝐧𝐠𝐥𝐞 𝐇𝐨 𝐘𝐚 𝐌𝐢𝐧𝐠𝐥𝐞 😉 ",
-           " 𝐎𝐲𝐲 𝐢𝐭𝐧𝐚 𝐡𝐨𝐭 𝐤𝐲𝐮 𝐡𝐨 𝐭𝐮𝐦 𝐝𝐞𝐤𝐡 𝐤𝐞 𝐤𝐡𝐚𝐝𝐚 𝐡𝐨 𝐣𝐚𝐭𝐚 𝐡𝐚𝐢 😂 𝐑𝐨𝐧𝐠𝐭𝐞😁😁😁😋🥳 ",
-           " 𝐔𝐟𝐟 𝐊𝐲𝐚 𝐦𝐚𝐚𝐥 𝐡𝐚𝐢 𝐲𝐚𝐚𝐫 DEKH KE KHADA HO GYA 😁😂🧐 ",
-           " 𝐚𝐩𝐤𝐢 𝐚𝐠𝐞 𝐤𝐲𝐚 𝐡𝐚𝐢 𝐡𝐨𝐭 𝐡𝐨 𝐚𝐩 𝐝𝐞𝐤𝐡𝐭𝐞 𝐡𝐢 𝐦𝐚𝐧 𝐤𝐚𝐫𝐭𝐚 𝐡𝐢𝐥𝐚𝐭𝐞 𝐫𝐡𝐮😁🥺 ",
-           " 𝐎𝐲𝐲 𝐢𝐭𝐧𝐚 𝐡𝐨𝐭 𝐤𝐲𝐮 𝐡𝐨 𝐭𝐮𝐦 𝐝𝐞𝐤𝐡 𝐤𝐞 𝐤𝐡𝐚𝐝𝐚 𝐡𝐨 𝐣𝐚𝐭𝐚 𝐡𝐚𝐢 😂 𝐑𝐨𝐧𝐠𝐭𝐞😁😁😁 😊 ",
-           " 𝐀𝐩𝐤𝐢 𝐞𝐤 𝐩𝐢𝐜 𝐦𝐢𝐥𝐞𝐠𝐢 𝐤𝐲𝐚 𝐢𝐦𝐚𝐠𝐢𝐧𝐞 𝐤𝐚𝐫 𝐤𝐞 𝐦*𝐭𝐡 m𝐚𝐫𝐧𝐚 𝐡𝐢🥺🥺 ", 
-           " 𝐀𝐚𝐩𝐤𝐢 𝐏𝐚𝐫𝐭𝐧𝐞𝐫 𝐀𝐚𝐩𝐤𝐨 𝐃𝐡𝐮𝐧𝐝 𝐑𝐡𝐞 𝐇𝐚𝐢𝐧 𝐉𝐥𝐝𝐢 𝐎𝐧𝐥𝐢𝐧𝐞 𝐀𝐲𝐢𝐚𝐞😅😅😗 ",
-           " 𝐚𝐩𝐤𝐢 𝐚𝐠𝐞 𝐤𝐲𝐚 𝐡𝐚𝐢 𝐡𝐨𝐭 𝐡𝐨 𝐚𝐩 𝐝𝐞𝐤𝐡𝐭𝐞 𝐡𝐢 𝐦𝐚𝐧 𝐤𝐚𝐫𝐭𝐚 𝐡𝐢𝐥𝐚𝐭𝐞 𝐫𝐡𝐮😁🥺 ",
-           " 𝐀𝐚𝐣 𝐓𝐮𝐦 𝐟𝐢𝐧𝐠𝐞𝐫 𝐬𝐞 𝐡𝐢 𝐤𝐚𝐚𝐦 𝐜𝐡𝐚𝐥𝐚𝐨. 𝐆𝐡𝐚𝐫 𝐦𝐞 𝐛𝐚𝐢𝐠𝐚𝐧 𝐨𝐫 𝐦𝐮𝐤𝐢 𝐤𝐡𝐚𝐭𝐚𝐦 𝐡𝐨 𝐠𝐲𝐞 𝐡𝐚𝐢 😁🥰 ",
-           " 𝐍𝐚 𝐉𝐚𝐦𝐢𝐧 𝐏𝐞 𝐍𝐚 𝐀𝐬𝐡𝐦𝐚𝐧 𝐩𝐞 𝐓𝐞𝐫𝐢 𝐆𝐝 𝐦𝐚𝐫𝐮𝐧𝐠𝐚 𝐚𝐩𝐧𝐞 𝐁𝐡𝐚𝐢 𝐤𝐞 𝐦𝐚𝐤𝐚𝐧 𝐩𝐞😜** ",
-           " 𝐎𝐲𝐲 𝐢𝐭𝐧𝐚 𝐡𝐨𝐭 𝐤𝐲𝐮 𝐡𝐨 𝐭𝐮𝐦 𝐝𝐞𝐤𝐡 𝐤𝐞 𝐤𝐡𝐚𝐝𝐚 𝐡𝐨 𝐣𝐚𝐭𝐚 𝐡𝐚𝐢 😂 𝐑𝐨𝐧𝐠𝐭𝐞😁😁😁🥰 ",
-
+TAGMES = [ " yunnaku lam yen da intha velai - venna thalaiya🥱 ",
+           " yunaku irrukura LIFE ha yennaku donate pannidu apo than neku santhosam ",
+           " Vc la yentha ponnu kitta urutitu irrukaa👻🙊 ",
+           " summa thane irruka antha TV remote yedhutu kudu da manga manda 😁🥲 ",
+           " mooku kila vai irruku athuku mela yenna irruku - romba yosikatha yenna moolaiye illala 🤣🤣 ",
+           " athu yenna nu therla athu yeppadey solurathu nu therla - yunna partha paitiyam marri irruku 😁 ",
+           " nan yarru yunakku nee yar yennaku ?? ",
+           " nalla saptiya apo nalla toongu - illana mokka potutu irrupa  ",
+           " Oree kulu kulu nu irrukiyoo inga va yevalo sooda irruku nu parru ",
+           " Ivana yedhu vechi adikulam",
+           " yenna da guru guru nu pakuraa - Deii  ",
+           " yenga irrunthu da varenga yenaku neh  ",
+           " sari nan poi velaiye pakuren - varaaataahhh ",
+           " suthuthey suthuthey boombi - nee yenna vitu ponna pothumada saami 🤣🤣 ",
+           " konjam kanda thna irrukum adjust paniko illana palahidum ",
+           " dei Kundu yunaku yenna da velai inga ",
+           " aasaiya kekuren - Saptiya - cut - shot nalla vanthuchi Thank you 🤔 ",
+           " Hi Hello Hey Vanakam Vanthanam - poitu varen ",
+           " pesuran pesuran Vc la ana avan yenna sonnalum yennku tookam varalaiye 😅 ",
+           " dei nee lam vantha yenna varaliyana yenna - poi velaiya paru daw 🫣 ",
+           " saptiya nee - 1 ",
+           " yenna soru thina - 2 ",
+           " yennaku kodukama sapudura nee lam nalla irrupa - 3 ",
+           " sari nalla toongitu work parru  - 20 ",
+           " dei last bench kara toongatha da 😮‍💨 - 4 ",
+           " nalla saptu saptu toonguran pare 😬 - 5 ",
+           " ipo nee yelunthukula nu vei 🫣 - 8 ",
+           " Yun left side la parru un crush irrukanga - 9 ",
+           " sari toongu kanavula un crush varum 😝😅 - 10 ",
+           " nalla sapta pola inga varikum kekuthu yaepom 🙈😃 - 6 ",
+           " dei nalavaneee yelunthudu da - 7 " ,
+           " sari sari toongunathu pothum velaiya parru - 11 ",
+           " innoruka polam variya sorru thinga - 12 ",
+           " sari oru tips solluren - toongama irruka - 13 ",
+           " pakathula work la un crush irruntha.. manager ku theriyama sight adey 🤧 ",
+           " sari sari parthathu pothum ipo parru nalla mandaila yerum 🫥 - 16 ",
+           " ninachen , yenna da kannu vera yengaiyo poguthu nu  😂 - 17 ",
+           " sari work pandra pasanga luku - meeting nu yulla poidunga 😃 - 18 ",
+           " AC la semaiya tookam varum - ana pinnadey manager irruakaru 🙈 - 19 ",
+           " Aaga inniku mudinzichi tipss hu ! Varaataahhhh 🏃‍♂️ - 21 ",
+           " innum ivanga pandrathu yennalam pakanum ho 😃 ",
+           " yeley - 22 ",
+           " soluu leyy - 23 ",
+           " solurathuku onum illa ley - irrunthalum soluven vokanthu kellu 🙈 -24 ",
+           " inna da yun pirchanai ipo - tookam varuthu toonga vidu ley - 25 ",
+           " yenakum urakam varuthu antha ac remote yenga irruku - 26 ",
+           " inga than pinnadey parru AC remote varum - 27 ",
+           " ha da apapdey antha switch ha on pannitu po da - illana manager paapan - 28 ",
+           " dei kanna - nan than da antha manager😬 - 29",
+           " vanga manager sir - yeppadey irrukenga veetula yellam sowkiyam ha - 29 ",
+           " pambrakatta thalaiya nee pannathu yellam camera la theriyuthu da - 30",
+           " ippadey poi athuyum yen kitta matikitiyee pangu ",
+           " sari sari sattu buttu nu vera velaiya parru - somberiya irruntha yeppadey ",
+           " addeeiii - inga va veh nee - ama yedhuku kooputen, sari poitu varen ",
+           " yennaku oru doubtuu - nan paitiyam nu vothukuren nee vothupiya ? ",
+           " oru tea potu varuvom ha - 31 ",
+           " irru da manga manda manager koopuduran varen, sollunga sir -32 ",
+           " ippadey heh poona ivan yunmai soluran ha poi soluran ha nu theriyathey - 33 ",
+           " dei innum ha da avan kooda pesura - tea kaali ayiduchina yenna kekatha - solliputen - 34",
+           " ada irru da varen - yun matter than one matikichi sollitu irrukan - 35 ",
+           " aiyoo yentha file maati koodututen nu therliyee - 36 ",
+           " dei avana koopudu inna pandra avan inga vara sollu - 37 ",
+           " sir neenga sonna lam varamatan -38 ",
+           " etheyy avalo periya alu agitan ha avan - yenga irrukan - 38 ",
+           " tea kadalila yungala pathi song paaditu irrukan sire 😃 - 39 ",
+           " nalla paatu paduvan ha avan - irru keepom - 40",
+           " avanuku pattu than oru keedu - poi velaiya parunga da - 41 ",
+           " dei avalothan yunakku - ippadey act panna pothuma sir ",
+           " vai athingam da yuanku - irru thechividuren ",
+           " manasu valikuthu sir - dei nan bot da poda anguttu ",
+           " Tag la onnum ila thuki potutu poi velaya paaru ",
+           " Peasama poriya ila moonjila pooran vitruvean ",
+           " Neeyum naanum vera illada… - Summa sonean asai ah paru nan bot ne human… veliya javoooo ",
+           " Un look eh seri ila iru unaku oru seetu eduthu pakalam 😂",
+           " Unna la innum unveetula sooru potu vachirukanga ",
+           " ena lookku athu thaan onnum ilanu therithula aprm ena bye bye ",
+           " sari ley time ku saptu nalla tooongu - poitu varen ",
+           " **Hey inga va veh nee** ",
+           " **VE-NN-A thalaiya yena da pandra** ",
+           " **Nalavaneee saptiya yenna pandra** ",
+           " **deiii nee lam yen irruka poidu appdey heh😋** ",
+           " **Nanae kolanthai da nambumga da** ",
+           " **moodhugula knife yedhutu yara kuthulam nu partha yenna da nee vanthu nikuraa🙃** ",
+           " **Ana solliten ithulam nalathuku illa parthukaa ! avalothan han🤨** ",
+           " **Oru flow la poiturukum bothu yevan da athu nadula comedy pannikituu __ odddu** ",
+           " **Ama onu vanganum heh yenna vangalam solluu🥲** ",
+           " **dei murugesha antha AK47 gun ha konjam kooda bore adikuthu😋** ",
+           " **yenna da suda matikuthi ! manichidu talaivarey bullet podala** ",
+           " **athu yeppadey da yunna sudanum nu kekum bothu mattum bullet kanum🙄🤔** ",
+           " **yunnaku yenna mooku neelama irrukam 🤔! pakathu theru la poster la irrunthuchhiii🏃🏃** ",
+           " **Ana yunnaku vai irruke yennaku mela irruku 🙄🙄** ",
+           " **sari yedhachum nalla song sollu kepom🫶** ",
+           " **paatu poda sonna yena yen da podura ! venna thalaiya** ",
+           " **yenna game thala aduva nee😛! oru match polama** ",
+           " **Ama yunna pathi onu sonnangley ath uumnai ha🤔** ",
+           " **sari yellame vithudu, nan oru 3 kelvi kekuren soluriya nu pakalam** ",
+           " **yara nee neelam oru aley illaa venna thalaiya🤗** ",
+           " **konjam kooda navura vidamatikuran heh yenna da venum yunnaku** ",
+           " **Yevalo vati da sollurathu yunnaku mandai la brain heh illa da yunnaku venna thalaiya** ",
+           " **Ana sathiyama sollala nee lam thiruntha mata🥺🥺** ",
+           " **ama nan paitiyakaran na nee yaruu😶** ",
+           " **yunnaku vekam lam vratha da sena panni marri nikuraa🤔** ",
+           " **appadey ha ithu vera theriyaama pocha😜** ",
+           " **amaa yenna alaiyee kanum sethutiya** ",
+           " **nalla thingura yenna vitutu nalla irrpa** ",
+           " **sari satu butu nu sollu yenna venum sapuda apram kasu illanu nu soliduven** ",
+           " **Nee nalavana illna ketavanuku mela nalavn ha🙊** ",
+           " **ama nee ipo yenna pandra yenna marri vetiya thane irrukaa apram yenga pore😺** ",
+           " **sari sari pesunathu pothum poi toongu🥲** ",
+           " **yepayum happy ha samthosama irru apo than yunna pakuravanga irruntha ivana marri irrukanum nu ninachi santhosama irrupanga😅** ",
+           " **illana irrukura vanagalaiyum auchi irruka vidu da venna ythalaiya🙊🙊** ",
+           " **Sooruu inga illaiyam pakathu veedu layum illaiyam agamothathuku sorru ilaiyam🙈🙈** ",
+           " **porathum pore irru kuli kulla thali viduren🕳** ",
+           " **sari apo nan kilamburen neeyum pesitu nalla urutitu poi toongu, thaniya da🙊** ",
+           " **Nan nee avan avar ival iva yellarum ... onum illa..?👀** ",
+           " **yelai anga yenna da pandra inga va game adalam** ",
+           " **sari bore adicha sollu game adalam** ",
+           " **inga oruthan irrupan nalla parru yunnakula irrukpan ana irrukamatan avan yar??😻** ",
+           " **ama nee yaru sollu ?🙃** ",
            ]
 
 @app.on_message(filters.command(["tagall"], prefixes=["/","!"]))
 async def mentionall(client, message):
     chat_id = message.chat.id
     if message.chat.type == ChatType.PRIVATE:
-        return await message.reply("𝐓𝐡𝐢𝐬 𝐂𝐨𝐦𝐦𝐚𝐧𝐝 𝐎𝐧𝐥𝐲 𝐅𝐨𝐫 𝐆𝐫𝐨𝐮𝐩𝐬.")
+        return await message.reply("𝐆𝐫𝐩 𝐥𝐚 Use 𝐩𝐨𝐝𝐮𝐧𝐠𝐚 /tagall functions eh")
 
     is_admin = False
     try:
@@ -153,7 +187,7 @@ async def mentionall(client, message):
         ):
             is_admin = True
     if not is_admin:
-        return await message.reply("𝐘𝐨𝐮 𝐀𝐫𝐞 𝐍𝐨𝐭 𝐀𝐝𝐦𝐢𝐧 𝐁𝐚𝐛𝐲, 𝐎𝐧𝐥𝐲 𝐀𝐝𝐦𝐢𝐧𝐬 𝐂𝐚𝐧 . ")
+        return await message.reply("ʏᴜɴɢᴀᴋᴜʟᴜ ᴀᴅᴍɪɴ ᴘᴏᴛᴀᴛʜᴜᴋᴜ ᴀᴘᴘᴀʀᴀᴍ ᴛʜᴀɴ ᴀᴄᴄᴇᴘᴛ ᴀᴀɢᴜᴍ . ")
 
     if message.reply_to_message and message.text:
         return await message.reply("/tagall  𝐓𝐲𝐩𝐞 𝐋𝐢𝐤𝐞 𝐓𝐡𝐢𝐬 / 𝐑𝐞𝐩𝐥𝐲 𝐀𝐧𝐲 𝐌𝐞𝐬𝐬𝐚𝐠𝐞 𝐍𝐞𝐱𝐭 𝐓𝐢𝐦𝐞 ")
@@ -164,11 +198,11 @@ async def mentionall(client, message):
         mode = "text_on_reply"
         msg = message.reply_to_message
         if not msg:
-            return await message.reply("/tagall  𝐓𝐲𝐩𝐞 𝐋𝐢𝐤𝐞 𝐓𝐡𝐢𝐬 / 𝐑𝐞𝐩𝐥𝐲 𝐀𝐧𝐲 𝐌𝐞𝐬𝐬𝐚𝐠𝐞 𝐍𝐞𝐱𝐭 𝐓𝐢𝐦𝐞 ...")
+            return await message.reply("/tagall  𝐓𝐲𝐩𝐞 𝐋𝐢𝐤𝐞 𝐓𝐡𝐢𝐬 \n\nTo stop the tagging process, use the commands /tagoff or /tagstop.. ...")
     else:
-        return await message.reply("/tagall  𝐓𝐲𝐩𝐞 𝐋𝐢𝐤𝐞 𝐓𝐡𝐢𝐬 / 𝐑𝐞𝐩𝐥𝐲 𝐀𝐧𝐲 𝐌𝐞𝐬𝐬𝐚𝐠𝐞 𝐍𝐞𝐱𝐭 𝐓𝐢𝐦𝐞 ..")
+        return await message.reply("/tagall  𝐓𝐲𝐩𝐞 𝐋𝐢𝐤𝐞 𝐓𝐡𝐢𝐬 \n\nTo stop the tagging process, use the commands /tagoff or /tagstop.. ..")
     if chat_id in spam_chats:
-        return await message.reply("𝐏𝐥𝐞𝐚𝐬𝐞 𝐀𝐭 𝐅𝐢𝐫𝐬𝐭 𝐒𝐭𝐨𝐩 𝐑𝐮𝐧𝐧𝐢𝐧𝐠 𝐏𝐫𝐨𝐜𝐞𝐬𝐬 ...")
+        return await message.reply("ADA konjam porumaiya irrunga - ooditu irrukula ...")
     spam_chats.append(chat_id)
     usrnum = 0
     usrtxt = ""
@@ -197,7 +231,7 @@ async def mentionall(client, message):
 @app.on_message(filters.command(["tagoff", "tagstop"]))
 async def cancel_spam(client, message):
     if not message.chat.id in spam_chats:
-        return await message.reply("𝐂𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲 𝐈'𝐦 𝐍𝐨𝐭 ..")
+        return await message.reply("Innum antha /tagall yarum start panala - neenga pannungaleey 😂..")
     is_admin = False
     try:
         participant = await client.get_chat_member(message.chat.id, message.from_user.id)
@@ -210,10 +244,14 @@ async def cancel_spam(client, message):
         ):
             is_admin = True
     if not is_admin:
-        return await message.reply("𝐘𝐨𝐮 𝐀𝐫𝐞 𝐍𝐨𝐭 𝐀𝐝𝐦𝐢𝐧 𝐁𝐚𝐛𝐲, 𝐎𝐧𝐥𝐲 𝐀𝐝𝐦𝐢𝐧𝐬 𝐂𝐚𝐧 𝐓𝐚𝐠 𝐌𝐞𝐦𝐛𝐞𝐫𝐬.")
+        return await message.reply("ʏᴜɴɢᴀᴋᴜʟᴜ ᴀᴅᴍɪɴ ᴘᴏᴛᴀᴛʜᴜᴋᴜ ᴀᴘᴘᴀʀᴀᴍ ᴛʜᴀɴ ᴀᴄᴄᴇᴘᴛ ᴀᴀɢᴜᴍ.")
     else:
         try:
             spam_chats.remove(message.chat.id)
         except:
             pass
-        return await message.reply("**🦋ᴛᴀɢ ʀᴏᴋɴᴇ ᴡᴀʟᴇ ᴋɪ ᴍᴀᴀ ᴋᴀ ʙʜᴀʀᴏsᴀ ᴊᴇᴇᴛᴜ.....🫠**")
+        return await message.reply("**𝙽𝚊𝚗𝚍𝚛𝚒𝚐𝚊𝚕 𝚞𝚜𝚎 𝚙𝚊𝚗𝚗𝚊𝚝𝚑𝚞𝚔𝚞🫠 meendum varuga**\n\nTo stop the tagging process, use the commands /tagoff or /tagstop.")
+
+@app.on_message(filters.command(["stop"]))
+async def inform_stop_commands(client, message):
+    await message.reply("To stop the tagging process initiated by /tagall, you can use either /tagoff or /tagstop commands.")
